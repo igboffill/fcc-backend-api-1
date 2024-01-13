@@ -3,9 +3,12 @@
 	"author": "Iriam Gonzalez",
 	"description": "A project for learning nodejs at Free Code Camp",
 	"keywords": ["freecodecamp", "NodeJs", "API", "Certification"],
-	"licence":"MIT",
+	"license": "MIT",
+	"version":"1.0.0",
+	
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
